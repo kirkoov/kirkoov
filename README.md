@@ -65,7 +65,7 @@ Some representative projects:
 
 - **Piko** — Workforce management backend built with FastAPI.
 - **Daily Wallpaper Rotator** — Reliable GNOME wallpaper scheduler using Bash, anacron, and systemd.
-- **Linux automation utilities** — Practical tools and infrastructure experiments.
+- **Infrastructure & networking** — Practical experiments with Linux, Docker, Nginx, and networking.
 
 Older repositories are gradually being refreshed or archived as the portfolio evolves.
 
