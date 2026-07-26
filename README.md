@@ -1,35 +1,39 @@
 # Hi, I'm Kirill (kirkoov) 👋
 
-Backend developer focused on practical, reliable systems with clean architecture, Linux infrastructure, and maintainable backend design.
-
-My current work focuses on backend services, automation tools, and infrastructure-oriented systems.
-
----
+Backend developer who enjoys building practical, reliable software with Python, Linux, and modern backend technologies, with a particular interest in automation, infrastructure, and systems that solve real-world problems.
 
 ## 🔭 Now
 
+I'm currently working on two complementary projects.
+
 ### Piko
 
-A workforce management application for daycare employees built with FastAPI. This is my primary long-term engineering project. Its goal is to become a production-quality backend application with practical real-world usage.
+A FastAPI-based workforce management application for daycare employees.
 
-Focus areas:
+Current focus:
 
 - authentication and role-based access
 - API design and testing
-- Docker-based deployment
+- Docker deployment
 - frontend integration
 
-### 🔧 Live / Demo (if available)
+### 🔧 Status
 
-Deployment in progress.
+The first public release is planned after core functionality, testing, and deployment are complete.
 
----
+### Daily Wallpaper Rotator
+
+A lightweight shell-based wallpaper scheduler for GNOME using anacron, systemd, and desktop integration to continue rotating wallpapers reliably even when the computer isn't powered on every day.
 
 ## 🛠 Technologies
 
-### Backend
+### Languages
 
 - Python
+- Bash
+
+### Backend
+
 - FastAPI
 - Django
 - Django REST Framework
@@ -55,38 +59,30 @@ Deployment in progress.
 - CSS
 - npm
 
----
-
 ## 📂 Featured repositories
 
 Some representative projects:
 
-- **Piko** *(in active development, described [above](#piko))*
-- **Yummi** *(Django web application for managing recipes)*
-- Infrastructure and networking experiments
-- Linux automation utilities
+- **Piko** — Workforce management backend built with FastAPI.
+- **Daily Wallpaper Rotator** — Reliable GNOME wallpaper scheduler using Bash, anacron, and systemd.
+- **Linux automation utilities** — Practical tools and infrastructure experiments.
 
 Older repositories are gradually being refreshed or archived as the portfolio evolves.
 
----
-
 ## 🌱 Current priorities
 
-- software architecture and design
+- software architecture
+- backend API design
+- authentication & security
 - automated testing
-- deployment workflows and CI/CD
-- API design and backend scalability
-- authentication and authorization systems
-- maintainable production-ready codebases
-- frontend integration for backend systems
+- deployment & CI/CD
+- Linux automation
 
 ## 🌍 Background
 
 Before transitioning into software engineering, I worked in international environments requiring clear communication, precision, and responsibility, and later ran a small translation business.
 
 Those experiences continue to shape the way I design software: practical, reliable, and maintainable.
-
----
 
 ## 📈 Philosophy
 
@@ -98,8 +94,6 @@ I enjoy building software that is:
 
 I believe software engineering is not only about writing code, but about designing systems that remain reliable and understandable as they evolve.
 
----
-
 ## 🌐 Languages
 
 - Russian (native)
@@ -107,10 +101,16 @@ I believe software engineering is not only about writing code, but about designi
 - Spanish (good)
 - Finnish (currently improving)
 
----
-
 ## 📫 Get in touch
 
 I'm always interested in discussing backend development, Linux, infrastructure, and practical software engineering.
 
 Thanks for visiting my profile!
+
+## 🤝 Open to
+
+- Backend engineering roles
+- Linux / Infrastructure engineering roles
+- Infrastructure / DevOps internships or junior positions
+- Open-source collaboration
+- Interesting automation projects
