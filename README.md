@@ -1,6 +1,6 @@
 # Hi, I'm Kirill (kirkoov) 👋
 
-Backend developer who enjoys building practical, reliable software with Python, Linux, and modern backend technologies, with a particular interest in automation, infrastructure, and systems that solve real-world problems.
+Python/backend developer who enjoys building practical, reliable software with Python and Linux, with a particular interest in automation, infrastructure, and systems that solve real-world problems.
 
 ## 🔭 Now
 
@@ -10,12 +10,14 @@ I'm currently working across backend/application development and practical Linux
 
 A lightweight workforce management application for nursery employees, built with FastAPI.
 
-Current focus:
+Project focus:
 
 - authentication and role-based access
 - API design and testing
 - Docker deployment
 - frontend integration
+
+**Current status:** the application is waiting for domain feedback from a nursery employee before the next development iteration.
 
 ### Splaud
 
@@ -65,7 +67,7 @@ I also build small utilities that solve problems I encounter in everyday Linux u
 
 ## 📂 Featured repositories
 
-Some representative projects:
+Current pinned projects:
 
 - **Piko** — lightweight workforce management application for nursery employees
 - **Splaud** — cross-platform audio splitting made simple
