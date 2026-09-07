@@ -4,11 +4,11 @@ Backend developer who enjoys building practical, reliable software with Python, 
 
 ## 🔭 Now
 
-I'm currently working on two complementary projects.
+I'm currently working across backend/application development and practical Linux/GNOME tooling.
 
 ### Piko
 
-A FastAPI-based workforce management application for daycare employees.
+A lightweight workforce management application for nursery employees, built with FastAPI.
 
 Current focus:
 
@@ -17,13 +17,17 @@ Current focus:
 - Docker deployment
 - frontend integration
 
-### 🔧 Status
+### Splaud
 
-The first public release is planned after core functionality, testing, and deployment are complete.
+A cross-platform Python application for making audio splitting simpler and more practical.
 
-### Daily Wallpaper Rotator
+### Linux / GNOME tools
 
-A lightweight shell-based wallpaper scheduler for GNOME using anacron, systemd, and desktop integration to continue rotating wallpapers reliably even when the computer isn't powered on every day.
+I also build small utilities that solve problems I encounter in everyday Linux use:
+
+- **Daily Wallpaper for GNOME** — daily wallpaper rotation with persistent no-repeat cycles, Anacron support and GNOME desktop integration
+- **GNOME Appearance Toggle** — manual or Night Light-based switching between light and dark appearance
+- **Terminal Toggle** — a small Bash utility for switching GNOME Terminal between light and dark colour schemes
 
 ## 🛠 Technologies
 
@@ -63,9 +67,11 @@ A lightweight shell-based wallpaper scheduler for GNOME using anacron, systemd, 
 
 Some representative projects:
 
-- **Piko** — Workforce management backend built with FastAPI.
-- **Daily Wallpaper Rotator** — Reliable GNOME wallpaper scheduler using Bash, anacron, and systemd.
-- **Infrastructure & networking** — Practical experiments with Linux, Docker, Nginx, and networking.
+- **Piko** — lightweight workforce management application for nursery employees
+- **Splaud** — cross-platform audio splitting made simple
+- **Daily Wallpaper for GNOME** — reliable daily GNOME wallpaper rotation with no-repeat cycles
+- **GNOME Appearance Toggle** — GNOME light/dark appearance switching
+- **Terminal Toggle** — Bash utility for GNOME Terminal light/dark colour schemes
 
 Older repositories are gradually being refreshed or archived as the portfolio evolves.
 
